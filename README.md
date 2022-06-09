@@ -8,7 +8,7 @@ The main goal of the project is to investigate the interaction between operators
 ## Setup
 In order to launch the simulation, the files need to be opened in MATLAB. 
 - Open the "MultiLoop_mode1.mdl" file. This will launch the Simulink model of the TEP
-- Open the "TElib.mdl".
+- Open "TElib.mdl".
 - Open "temexd_mod.c". 
 #### The opened files don't need to be changed, they just need to be opened.
 - Go to "app" folder.
