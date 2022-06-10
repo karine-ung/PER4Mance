@@ -10,6 +10,7 @@ In order to launch the simulation, the files need to be opened in MATLAB.
 - Open the "MultiLoop_mode1.mdl" file. This will launch the Simulink model of the TEP
 - Open "TElib.mdl".
 - Open "temexd_mod.c". 
+- Highlight the files "slprj", "Icons", "audio", "app". Click "Add to Path" with selected folders and subfolders. 
 #### The opened files don't need to be changed, they just need to be opened.
 - Go to "app" folder.
 - Open "fault_selection_App.mlapp".
