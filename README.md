@@ -1,9 +1,9 @@
 # PER4Mance: Prototyping Environment for HMI Research on Alarm Flood Management
 ## Description
 
-"PER4Mance" is a prototyping environment that imitates a process control of a chemical plant. For this experiment, the data from the Tennessee Eastman Process (TEP) industrial process is used. PER4Mance has a GUI that is applied to the TEP to illustrate a chemical process control.
+"PER4Mance" is a prototyping environment that simulates the process control of a chemical plant. For this experiment, the data from the Tennessee Eastman Process (TEP) industrial process is used. PER4Mance has a Graphical User Interface (GUI) that was designed for the TEP and which enables inputs from operators.
 
-The main goal of the project is to investigate the interaction between operators and complex systems during an alarm flood condition. In this simulation, an integrated diagnostic tool provides a solution that can be pre-set to correct or incorrect. This is done to check the reliability and trust of a user for the diagnostic tool.
+The main goal of this prototyping environment is to promote research on the interactions between operators and complex systems during an alarm flood conditions. In this simulation, an integrated diagnostic tool provides a solution that can be pre-set to provide a correct or incorrect diagnosis. This function was created to encourage research on operator's diagnostic performance, and trust in the machine.
 
 ## Setup
 In order to launch the simulation, the files need to be opened in MATLAB. 
