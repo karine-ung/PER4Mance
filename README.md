@@ -16,3 +16,5 @@ In order to launch the simulation, the files need to be opened in MATLAB.
 - Open "fault_selection_App.mlapp".
 - Run the program.
 The program will show whether a user wants to activate a fault, which fault needs to be activated specifically, and when will it occur. A user will also be asked to input whether the diagnostic tool needs to provide a correct or incorrect diagnostic.
+![Interface 1](https://user-images.githubusercontent.com/107073332/173442589-0466fc7d-44df-4e81-b36c-b62d4031d253.png)
+![Interface 2](https://user-images.githubusercontent.com/107073332/173442653-ada741c6-b2bd-415f-91a8-bd1f01b806f3.png)
